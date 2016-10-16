@@ -2,6 +2,8 @@ framework >= net40
 source https://www.nuget.org/api/v2
 
 nuget FAKE
+nuget Mono.Data.Sqlite.Portable
+nuget SQLProvider
 nuget Suave
 nuget FSharp.Data
 nuget Newtonsoft.Json
